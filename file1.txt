@@ -1,7 +1,5 @@
 Елизавета 
+
 commit 1
-<<<<<<< HEAD
+another changed commit
 commit 3
-=======
-commit 2
->>>>>>> bad8a50... Second commit
