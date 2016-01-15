@@ -1,13 +1,5 @@
 Елизавета 
-
-
-
 commit 1
-
-
 another changed 
-
 commit 3
-
-
 changed commit
